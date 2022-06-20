@@ -33,7 +33,7 @@ for files in glob.glob(path + '*.png'):
     for i in range(len(arr)):
         if i !=1:
       
-        # replace hardik with shardul
+        # replace
             if arr[i] == ':':
                 arr[i] = '.'
     # print list
