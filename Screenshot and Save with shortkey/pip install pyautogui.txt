@@ -1,0 +1,6 @@
+#first install
+-------------------------
+pip install pyautogui
+pip install pytest-shutil
+pip install glob2
+-------------------------
